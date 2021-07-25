@@ -4,6 +4,6 @@
 
 [Jozi-nextjs](https://github.com/mnchabeleng/Jozi-nextjs)
 
-### Backend
+### API
 
 [Jozi-laravel](https://github.com/mnchabeleng/Jozi-laravel)
